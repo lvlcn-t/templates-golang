@@ -1,4 +1,12 @@
 default_stages: [pre-push]
+ci:
+  autofix_commit_msg: |
+    fix(deps): [pre-commit.ci] auto fixes\n\nFor more information, see https://pre-commit.ci
+  autofix_prs: true
+  autoupdate_commit_msg: |
+    fix(deps): [pre-commit.ci] auto update\n\nFor more information, see https://pre-commit.ci
+  autoupdate_schedule: weekly
+
 repos:
   - repo: local
     hooks:
