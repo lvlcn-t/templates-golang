@@ -3,6 +3,7 @@ name: Continuous Integration
 on: [push]
 
 permissions:
+  actions: read
   contents: write
   packages: write
   security-events: write
