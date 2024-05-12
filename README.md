@@ -2,8 +2,8 @@
 
 <!-- markdownlint-disable-next-line -->
 <p align="center">
-    <a href="/../../commits/" title="Last Commit"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/lvlcn-t/lvlcn-t?style=flat"></a>
-    <a href="/../../issues" title="Open Issues"><img alt="Open Issues" src="https://img.shields.io/github/issues/lvlcn-t/lvlcn-t?style=flat"></a>
+    <a href="/../../commits/" title="Last Commit"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/lvlcn-t/meta?style=flat"></a>
+    <a href="/../../issues" title="Open Issues"><img alt="Open Issues" src="https://img.shields.io/github/issues/lvlcn-t/meta?style=flat"></a>
 </p>
 
 - [About this component](#about-this-component)
@@ -70,7 +70,7 @@ The following channels are available for discussions, feedback, and support requ
 
 | Type       | Channel                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **Issues** | [![General Discussion](https://img.shields.io/github/issues/lvlcn-t/lvlcn-t?style=flat-square)](/../../issues/new/choose) |
+| **Issues** | [![General Discussion](https://img.shields.io/github/issues/lvlcn-t/meta?style=flat-square)](/../../issues/new/choose) |
 
 ## How to Contribute
 
